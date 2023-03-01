@@ -1,0 +1,11 @@
+* Put these in a ticket/tasks system
+* Keyboard-based GUI (arrow-keys)
+* Define all tmux actions
+* Key-hints at bottom
+* Mouse-based selections
+* Create packages (at least .deb) and compilation instructions for other systems
+* Create session-saver/loader
+* Session-configurations and save-tags (example: session_name:<tag>, user:<tag>, group:<tag>, topic:<tag>)
+* API that enables automating the use of defined sessions; firstly, loading them by tags (or all) when the OS starts
+
+* Check what happens when 2 of the same commands have the same name ("tc" is already taken)
